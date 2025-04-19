@@ -153,13 +153,6 @@ clinic_management_project/
 
 ---
 
-## Contact
-
-**Hareesh Bhat**  
-Email: [hareesha.sbk@gmail.com](mailto:hareesha.sbk@gmail.com)
-
----
-
 ## License
 
 This project is licensed under the [License Name] License. See the `LICENSE.md` file for more details.
